@@ -1,0 +1,9 @@
+install Node.js
+
+npm install
+
+npm init
+
+npm --save mocha nodemon mongoose
+
+mongoose.connect('192.168.1.119:32771/users_test');
